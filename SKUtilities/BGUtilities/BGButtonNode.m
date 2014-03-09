@@ -16,15 +16,15 @@
                              selected:(SKTexture *)selectedTexture
 {
     self = [super initWithTexture:normalTexture];
-    
+
     if (self) {
         _normalTexture = normalTexture;
         _selectedTexture = selectedTexture;
         _state = UIControlStateNormal;
-        
+
         self.userInteractionEnabled = YES;
     }
-    
+
     return self;
 }
 
@@ -54,16 +54,16 @@
 {
     if (self.state != state) {
         _state = state;
-        
-        switch(_state){
+
+        switch (_state) {
             case UIControlStateNormal:
                 super.texture = self.normalTexture;
                 break;
-            
+
             case UIControlStateSelected:
                 super.texture = self.selectedTexture;
                 break;
-                
+
             default:
                 break;
         }
@@ -91,9 +91,9 @@
     self.state = UIControlStateSelected;
 
     if (self.touchDownAction) {
-        [self.parent performSelectorOnMainThread:self.touchDownAction
-                                      withObject:self.touchDownTarget
-                                   waitUntilDone:YES];
+        [self performSelectorOnMainThread:self.touchDownAction
+                               withObject:self.touchDownTarget
+                            waitUntilDone:YES];
     }
 }
 
@@ -101,8 +101,8 @@
 {
     UITouch *touch = [touches anyObject];
     CGPoint touchPoint = [touch locationInNode:self.parent];
-    
-    if(CGRectContainsPoint(self.frame, touchPoint)) {
+
+    if (CGRectContainsPoint(self.frame, touchPoint)) {
         self.state = UIControlStateSelected;
     } else {
         self.state = UIControlStateNormal;
@@ -113,15 +113,15 @@
 {
     UITouch *touch = [touches anyObject];
     CGPoint touchPoint = [touch locationInNode:self.parent];
-    
-    if(CGRectContainsPoint(self.frame, touchPoint)) {
-        if(self.touchUpInsideAction) {
-            [self.parent performSelectorOnMainThread:self.touchUpInsideAction
-                                          withObject:self.touchUpInsideTarget
-                                       waitUntilDone:YES];
+
+    if (CGRectContainsPoint(self.frame, touchPoint)) {
+        if (self.touchUpInsideAction) {
+            [self performSelectorOnMainThread:self.touchUpInsideAction
+                                   withObject:self.touchUpInsideTarget
+                                waitUntilDone:YES];
         }
     }
-    
+
     self.state = UIControlStateNormal;
 }
 

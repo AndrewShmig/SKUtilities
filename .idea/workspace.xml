@@ -22,28 +22,7 @@
     <favorites_list name="SKUtilities" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BGButtonNode.m" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="54" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.16189112" vertical-offset="1312" max-vertical-offset="2010">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="n#initWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#initWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#buttonNodeWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#buttonNodeWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#setState:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#setTouchDownTarget:action:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#setTouchUpInsideTarget:action:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#touchesMoved:withEvent:#0;n#BGButtonNode#0" expanded="true" />
-                <element signature="n#touchesEnded:withEvent:#0;n#BGButtonNode#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -57,8 +36,8 @@
         <option value="$PROJECT_DIR$/SKUtilities/BGMyScene.m" />
         <option value="$PROJECT_DIR$/SKUtilities/BGViewController.h" />
         <option value="$PROJECT_DIR$/SKUtilities/BGViewController.m" />
-        <option value="$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m" />
         <option value="$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.h" />
+        <option value="$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m" />
       </list>
     </option>
   </component>
@@ -158,15 +137,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="com.jetbrains.cidr.cocoapods.CocoaPodsConfigurable" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SKUtilities/BGButtonNode.m" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="SKUtilities" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.SKUtilities">
-    <configuration default="false" name="SKUtilities" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="SKUtilities" PROJECT_NAME="SKUtilities" TARGET_NAME="SKUtilities" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="SKUtilities" RUN_TARGET_NAME="SKUtilities" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <configuration default="false" name="SKUtilities" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="SKUtilities" PROJECT_NAME="SKUtilities" TARGET_NAME="SKUtilities" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="SKUtilities" RUN_TARGET_NAME="SKUtilities" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <RunnerSettings RunnerId="AppRunner" />
       <ConfigurationWrapper RunnerId="AppRunner" />
@@ -203,26 +182,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="820" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="820" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24276641" sideWeight="0.6707989" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24276641" sideWeight="0.6707989" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -237,13 +216,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SKUtilities/BGAppDelegate.h">
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="286" selection-end="286" vertical-scroll-proportion="0.45751634" vertical-offset="0" max-vertical-offset="459">
+        <state line="95" column="54" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2010">
           <folding>
-            <element signature="n#!!doc" expanded="false" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#initWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#initWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#buttonNodeWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#buttonNodeWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#setState:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#setTouchDownTarget:action:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#setTouchUpInsideTarget:action:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#touchesMoved:withEvent:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#touchesEnded:withEvent:#0;n#BGButtonNode#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGAppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="286" selection-end="286" vertical-scroll-proportion="0.45751634" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SKUtilities/BGAppDelegate.m">
@@ -257,29 +250,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SKUtilities/BGMyScene.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.4248366" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="13" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.4248366" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SKUtilities/BGViewController.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="182" selection-end="182" vertical-scroll-proportion="0.3267974" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="11" column="13" selection-start="182" selection-end="182" vertical-scroll-proportion="0.3267974" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SKUtilities/BGViewController.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="281" selection-end="281" vertical-scroll-proportion="0.45751634" vertical-offset="15" max-vertical-offset="690">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="15" column="24" selection-start="281" selection-end="281" vertical-scroll-proportion="0.45751634" vertical-offset="15" max-vertical-offset="690" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SKUtilities/BGMyScene.m">
@@ -304,7 +285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="54" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.16189112" vertical-offset="1312" max-vertical-offset="2010">
+        <state line="95" column="47" selection-start="2325" selection-end="2325" vertical-scroll-proportion="2.0415473" vertical-offset="0" max-vertical-offset="2010">
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="n#initWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
