@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5816c05a-b619-4881-8538-be93c03b442c" name="Default" comment="" />
+    <ignored path="SKUtilities.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_iPhone_Retina__4_inch__7.0" />
+  <component name="FavoritesManager">
+    <favorites_list name="SKUtilities" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BGButtonNode.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="54" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.16189112" vertical-offset="1312" max-vertical-offset="2010">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#initWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#initWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#buttonNodeWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#buttonNodeWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#setState:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#setTouchDownTarget:action:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#setTouchUpInsideTarget:action:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#touchesMoved:withEvent:#0;n#BGButtonNode#0" expanded="true" />
+                <element signature="n#touchesEnded:withEvent:#0;n#BGButtonNode#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SKUtilities/BGMyScene.h" />
+        <option value="$PROJECT_DIR$/SKUtilities/BGMyScene.m" />
+        <option value="$PROJECT_DIR$/SKUtilities/BGViewController.h" />
+        <option value="$PROJECT_DIR$/SKUtilities/BGViewController.m" />
+        <option value="$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m" />
+        <option value="$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.h" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BGUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SKUtilities" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.cidr.cocoapods.CocoaPodsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SKUtilities/BGButtonNode.m" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="SKUtilities" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SKUtilities">
+    <configuration default="false" name="SKUtilities" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="SKUtilities" PROJECT_NAME="SKUtilities" TARGET_NAME="SKUtilities" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="SKUtilities" RUN_TARGET_NAME="SKUtilities" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="SKUtilities" TARGET_NAME="SKUtilities" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="SKUtilities" RUN_TARGET_NAME="SKUtilities" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PROJECT_NAME="SKUtilities" TARGET_NAME="SKUtilitiesTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="SKUtilities" TARGET_NAME="SKUtilities" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.SKUtilities" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.SKUtilities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5816c05a-b619-4881-8538-be93c03b442c" name="Default" comment="" />
+      <created>1394362934600</created>
+      <updated>1394362934600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="820" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24276641" sideWeight="0.6707989" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGAppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="286" selection-end="286" vertical-scroll-proportion="0.45751634" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGAppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="50" selection-start="960" selection-end="960" vertical-scroll-proportion="0.5882353" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGMyScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.4248366" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="182" selection-end="182" vertical-scroll-proportion="0.3267974" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="24" selection-start="281" selection-end="281" vertical-scroll-proportion="0.45751634" vertical-offset="15" max-vertical-offset="690">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGMyScene.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="74" selection-start="938" selection-end="938" vertical-scroll-proportion="0.57020056" vertical-offset="7" max-vertical-offset="705">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#142#163#0" expanded="true" />
+            <element signature="n#touchUpInside#0;n#BGMyScene#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.16189112" vertical-offset="7" max-vertical-offset="705">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKUtilities/BGUtilities/BGButtonNode.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="54" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.16189112" vertical-offset="1312" max-vertical-offset="2010">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#initWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#initWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#buttonNodeWithTextureNormal:selected:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#buttonNodeWithTextureNormal:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#setState:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#setTouchDownTarget:action:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#setTouchUpInsideTarget:action:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#touchesMoved:withEvent:#0;n#BGButtonNode#0" expanded="true" />
+            <element signature="n#touchesEnded:withEvent:#0;n#BGButtonNode#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
